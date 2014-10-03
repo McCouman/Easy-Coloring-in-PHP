@@ -6,8 +6,8 @@
 *
 *	Das ganze ist recht simpel:
 *	GPR in HEX umwandeln und die % der neuen Farbbereiche wählen.
-*	Das ganze diehnt als Idee und kann sicher noch vereinfacht werden. 
-*	Easy Coloring ;)
+*	Das ganze dient als Idee und kann sicher noch vereinfacht werden. 
+*	Easy Coloring halt ;)
 *	
 *	@developer 	Michael McCouman Jr.
 *	@date 		03.10.2014
